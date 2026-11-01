@@ -111,7 +111,7 @@ sms-nlp-analysis/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/sms-nlp-analysis.git
+git clone https://github.com/WayneFranz77/sms-nlp-analysis.git
 
 cd sms-nlp-analysis
 ```
