@@ -1,0 +1,64 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+logs/
+*.log
+
+# Python Build Artifacts
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Type Checking
+.mypy_cache/
+.pyright/
+
+# Environment Variables
+.env
+.env.*
+
+# Temporary Files
+*.tmp
+*.bak
+*.swp
+
+# NLP Models
+models/
+checkpoints/
+
+# Generated Outputs
+outputs/
+reports/generated/
+
+# Local Downloads
+downloads/
+
+# Additional Datasets
+data/raw/
+data/processed/
